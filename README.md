@@ -1,13 +1,13 @@
 # etl-challenge
 
-##ETL Project Proposal
+## ETL Project Proposal
 
 I will extract COVID-19 Data from Kaggle and Data.World, and store in postgreSQL to compare worldwide COVID statistics (case number, deaths, etc.) to the United States.
 
 I will utilize postgreSQL to store my transformed data.
 
 
-##ETL Project Report
+## ETL Project Report
 
 I extracted COVID-19 Data from Data.World and The Covid Tracking Project.
 
