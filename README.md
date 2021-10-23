@@ -11,8 +11,8 @@ I will utilize postgreSQL to store my transformed data.
 
 I extracted COVID-19 Data from Data.World and The Covid Tracking Project.
 
-*https://data.world/associatedpress/johns-hopkins-coronavirus-case-tracker
-*https://covidtracking.com/data/download
+* https://data.world/associatedpress/johns-hopkins-coronavirus-case-tracker
+* https://covidtracking.com/data/download
 
 This resulted in 6, mostly cleaned CSV files.
 
